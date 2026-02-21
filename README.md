@@ -14,9 +14,9 @@ It focuses on [write your project purpose here].
 Spirit
 ## 📷 Screenshots
 
-![Home Page](screenshot28.png)
-![Dashboard](screenshot31.png)
-![Dashboard](screenshot32.png)
-![Dashboard](screenshot33.png)
-![Dashboard](screenshot34.png)
+![Home Page](Screenshot28.png)
+![Dashboard](Screenshot31.png)
+![Dashboard](Screenshot32.png)
+![Dashboard](Screenshot33.png)
+![Dashboard](Screenshot34.png)
 
