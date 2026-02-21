@@ -19,4 +19,10 @@ Spirit
 ![Dashboard](Screenshot32.png)
 ![Dashboard](Screenshot33.png)
 ![Dashboard](Screenshot34.png)
-
+![Dashboard](Screenshot35.png)
+![Dashboard](Screenshot36.png)
+![Dashboard](Screenshot37.png)
+![Dashboard](Screenshot38.png)
+![Dashboard](Screenshot39.png)
+![Dashboard](Screenshot40.png)
+![Dashboard](Screenshot41.png)
