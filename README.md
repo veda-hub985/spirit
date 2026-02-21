@@ -12,3 +12,8 @@ It focuses on [write your project purpose here].
 
 ## 👤 Developer
 Spirit
+## 📷 Screenshots
+
+![Home Page](screenshot1.png)
+
+![Dashboard](screenshot2.png)
